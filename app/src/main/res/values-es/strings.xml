@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NC Sandbox</string>
+    <string name="tab_text_1">Citas</string>
+    <string name="tab_text_2">Productos</string>
+    <string name="tab_text_3">Config.</string>
+    <string name="title_activity_citas">Citas</string>
+    <string name="large_text">
+        "El material es la metáfora."
+
+        "Una metáfora material es la teoría unificadora de un espacio racionalizado y un sistema de movimiento."
+        "El material está basado en la realidad táctil, inspirado en el estudio del papel y la tinta, pero..."
+        "tecnológicamente avanzado y abierto a la imaginación y la magia."
+        "Las superficies y los bordes del material proporcionan pistas visuales que se basan en la realidad. El "
+        "El uso de atributos táctiles familiares ayuda a los usuarios a comprender rápidamente los costos. Sin embargo, el
+        "La flexibilidad del material crea nuevas posibilidades que sustituyen a las de lo físico"
+        "mundo, sin romper las reglas de la física."
+        "Los fundamentos de la luz, la superficie y el movimiento son clave para transmitir cómo se mueven los objetos".
+        "interactúan, y existen en el espacio y en relación unos con otros. Espectáculos de iluminación realistas "
+        "Cubre, divide el espacio, e indica partes en movimiento."
+    </string>
+    <string name="action_settings">Config.</string>
+    <string name="title_activity_login">Ingresar</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="bienvenida">¡Bienvenida!</string>
+    <string name="invalid_username">No es un email válido</string>
+    <string name="invalid_password">La contraseña debe contener al menos 6 caracteres</string>
+    <string name="login_failed">"Autenticación fallida."</string>
+    <string name="llenarCampos">Completa todos los campos</string>
+    <string name="action_registro">Registrarse</string>
+    <string name="registroExitoso">Cuenta creada con éxito</string>
+    <string name="registro_failed">Error al crear la cuenta. Revisa los campos y vuelve a intentar.</string>
+    <string name="btn1">Conformes</string>
+    <string name="btn2">Pendientes</string>
+    <string name="btn3">No conformes</string>
+    <string name="btn4">Canceladas</string>
+    <string name="listTitle">Actividades</string>
+</resources>

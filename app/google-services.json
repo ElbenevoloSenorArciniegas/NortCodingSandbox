@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583707455040",
+    "firebase_url": "https://marykaysandbox.firebaseio.com",
+    "project_id": "marykaysandbox",
+    "storage_bucket": "marykaysandbox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583707455040:android:b5031dedc2379318cc39a5",
+        "android_client_info": {
+          "package_name": "com.example.marykay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583707455040-ltc8kcnsuq8lee8nocg1r5uav2etiedv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marykay",
+            "certificate_hash": "38777d3616fd38def5d2057f0948d5a07b95a9c9"
+          }
+        },
+        {
+          "client_id": "583707455040-k4tu2vfl92e4pt1g801efl3qic3oot5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApsNxS7-fWhSFhtksLfdJI5NBe4moaWi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583707455040-k4tu2vfl92e4pt1g801efl3qic3oot5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
